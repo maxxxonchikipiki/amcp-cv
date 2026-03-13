@@ -3,7 +3,8 @@
 ## Контакты
 
 - **Номер телефона:** 8-908-942-38-92
-- **Telegram:** @maksonchikipiki
+- **Telegram:** @sjsku_pjsku
+- **Ссылка на GitHub:** https://github.com/maxxxonchikipiki
 
 ## О себе
 
